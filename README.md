@@ -1,1 +1,1 @@
-@ The repository is created for version control practice.
+The repository is created for version control practice.
